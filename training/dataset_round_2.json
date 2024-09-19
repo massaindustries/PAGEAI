@@ -1,0 +1,1174 @@
+[
+    {
+        "instruction": "Quale sarebbe l'obiettivo del progetto SPARKLING?",
+        "input": "",
+        "output": "Obiettivo SPARKLING: PMI e filiere italiane a prova di futuro. Innovazione, Sostenibilit\u00e0 e Export sono le trasformazioni che spingeranno la competitivit\u00e0 del Made in Italy nel mondo."
+    },
+    {
+        "instruction": "Descrivi il ruolo delle PMI italiane.",
+        "input": "",
+        "output": "Le oltre 200 mila piccole e medie imprese (PMI) italiane producono un giro di affari di oltre 1.400 miliardi di euro, generano quasi il 40% del Valore Aggiunto nazionale e impiegano 5,6 milioni di persone, pari a un terzo di tutti gli occupati."
+    },
+    {
+        "instruction": "Quali sono i settori in cui le PMI italiane hanno un primato?",
+        "input": "",
+        "output": "Le medie imprese italiane garantiscono un primato nei confronti di Francia, Germania e Spagna, mostrando un livello di produttivit\u00e0 del lavoro superiore. Anche le grandi imprese italiane presentano una produttivit\u00e0 pari o superiore ai peer europei."
+    },
+    {
+        "instruction": "Quale sarebbe il ruolo dei distretti industriali italiani?",
+        "input": "",
+        "output": "I distretti industriali sono un tratto distintivo del sistema produttivo italiano: la specializzazione favorisce una maggiore produttivit\u00e0 del lavoro, una performance positiva del fatturato e lo sviluppo di economie di scala. I 160 distretti industriali italiani nel 2023 hanno esportato circa 150 miliardi di euro (25% dell\u2019export manifatturiero nazionale)."
+    },
+    {
+        "instruction": "Cosa rappresentano i distretti italiani per l\u2019export manifatturiero?",
+        "input": "",
+        "output": "I distretti italiani nel 2023 hanno esportato circa 150 miliardi di euro, rappresentando il 25% dell'export manifatturiero nazionale, con una significativa presenza di piccole e micro imprese."
+    },
+    {
+        "instruction": "Quali sono gli ambiti produttivi principali nei distretti italiani?",
+        "input": "",
+        "output": "I distretti italiani si focalizzano su specifici ambiti produttivi: agro-alimentare, sistema moda, metalmeccanica, sistema casa, beni intermedi e mezzi di trasporto. Pi\u00f9 di 2.200 imprese (il 13% del totale) sono leader nei loro distretti produttivi."
+    },
+    {
+        "instruction": "Come è cambiato il modello di distretto produttivo in Italia?",
+        "input": "",
+        "output": "L'emergere di un mercato sempre più globale ha portato all'ampliamento dei rapporti di fornitura a livello internazionale. Il modello distrettuale si \u00e8 evoluto in filiere produttive strutturate e integrate lungo l'intera catena del valore."
+    },
+    {
+        "instruction": "Quali strumenti offre SACE per il supporto alle filiere italiane?",
+        "input": "",
+        "output": "SACE mette a disposizione il proprio Network sul territorio domestico e strumenti come il 'Reverse Factoring', pensato anche in chiave ESG, per offrire ai fornitori accesso ai servizi di factoring per l'anticipo dei crediti."
+    },
+    {
+        "instruction": "Quali sono le filiere economiche di maggiore rilevanza?",
+        "input": "",
+        "output": "Le filiere economiche di maggiore rilevanza sono l'agro-alimentare, edilizia e mezzi di trasporto su gomma, rappresentando circa il 32% del Valore Aggiunto. A queste si aggiungono macchine industriali, abbigliamento, energia, sanit\u00e0 e farmaceutica."
+    },
+    {
+        "instruction": "Quali sono le opportunità offerte dalle filiere del futuro?",
+        "input": "",
+        "output": "Le filiere del futuro, come edilizia intelligente (smart building), agritech e fonti energetiche rinnovabili, offrono vantaggiose opportunit\u00e0 di crescita alle PMI italiane. L'export di beni ambientali \u00e8 atteso crescere del triplo rispetto alle vendite complessive."
+    },
+    {
+        "instruction": "Quali sono i benefici della specializzazione nei distretti industriali?",
+        "input": "",
+        "output": "La specializzazione nei distretti industriali italiani favorisce una maggiore produttività del lavoro, una performance positiva del fatturato e lo sviluppo di economie di scala."
+    },
+    {
+        "instruction": "Qual è il ruolo delle piccole e micro imprese nei distretti industriali?",
+        "input": "",
+        "output": "Nei 160 distretti industriali italiani, le piccole e micro imprese gravitano intorno a un nucleo di aziende di maggiori dimensioni, contribuendo significativamente all’export manifatturiero nazionale."
+    },
+    {
+        "instruction": "Come si sono evolute le filiere produttive italiane nel tempo?",
+        "input": "",
+        "output": "Le filiere produttive italiane si sono evolute passando dal modello di distretto a un sistema più strutturato e integrato lungo l’intera catena del valore, per rispondere a un mercato globale sempre più competitivo."
+    },
+    {
+        "instruction": "Qual è l'importanza del Reverse Factoring offerto da SACE?",
+        "input": "",
+        "output": "Il Reverse Factoring offerto da SACE consente alle medie e grandi imprese di offrire ai propri fornitori l'accesso ai servizi di factoring per l'anticipo dei crediti, con una particolare attenzione agli obiettivi ESG."
+    },
+    {
+        "instruction": "Quali sono le filiere che hanno maggiore rilevanza economica in Italia?",
+        "input": "",
+        "output": "Le filiere di maggiore rilevanza economica in Italia sono agro-alimentare, edilizia e mezzi di trasporto su gomma, che rappresentano circa il 32% del Valore Aggiunto. In totale, otto filiere a rilevanza sistemica contribuiscono complessivamente al 56% del Valore Aggiunto nazionale."
+    },
+    {
+        "instruction": "Qual è il contributo delle filiere di rilevanza sistemica all'export e all'occupazione?",
+        "input": "",
+        "output": "Le otto filiere di rilevanza sistemica in Italia contribuiscono al 67% dell'export nazionale e rappresentano il 52% dell'occupazione, dimostrando la loro centralità nell'economia del paese."
+    },
+    {
+        "instruction": "Quali sono le filiere del futuro che stanno emergendo in Italia?",
+        "input": "",
+        "output": "Le filiere del futuro in Italia includono l'edilizia intelligente (smart building), l'agritech e le fonti energetiche rinnovabili e alternative, come l'eolico offshore e l'idrogeno. Queste filiere sono caratterizzate da un alto contenuto innovativo e da un legame diretto con la sostenibilità ambientale."
+    },
+    {
+        "instruction": "Quali opportunità offrono le filiere del futuro alle PMI italiane?",
+        "input": "",
+        "output": "Le filiere del futuro, grazie al loro contenuto innovativo e al focus sulla sostenibilità ambientale, offrono opportunità di crescita per le PMI italiane, soprattutto nei mercati internazionali. Si prevede che l’export di beni ambientali crescerà tre volte più velocemente rispetto alle vendite complessive."
+    },
+    {
+        "instruction": "Qual è il potenziale di crescita occupazionale legato alle filiere del futuro?",
+        "input": "",
+        "output": "Le prospettive per le filiere del futuro in Italia prevedono una crescita occupazionale di quasi 800mila posti di lavoro, contribuendo significativamente alla trasformazione sostenibile dell'economia."
+    },
+    {
+        "instruction": "Come devono comportarsi le imprese italiane per sfruttare le opportunità delle filiere del futuro?",
+        "input": "",
+        "output": "Le imprese italiane devono adottare l'approccio #SPARKLING per guidare il cambiamento e garantire una transizione sostenibile, puntando su intelligenza, proattività, agilità, leadership, innovazione e sostenibilità."
+    },
+    {
+        "instruction": "Quante sono le imprese italiane esportatrici e qual è il loro contributo all'export?",
+        "input": "",
+        "output": "121mila sono le imprese italiane esportatrici, pari al 2,6% del totale delle imprese. Circa la metà di queste sono PMI che generano quasi il 50% del totale dell'export italiano."
+    },
+    {
+        "instruction": "Qual è la relazione tra la dimensione dell'impresa e la propensione all'export?",
+        "input": "",
+        "output": "La propensione all'export è direttamente legata alla dimensione dell'impresa: solo il 18% delle piccole imprese esporta più della metà del proprio fatturato, rispetto al 33% delle medie imprese e al 40% delle grandi imprese."
+    },
+    {
+        "instruction": "Quali sono le principali leve strategiche per aumentare la propensione all'export?",
+        "input": "",
+        "output": "Le due principali leve strategiche per aumentare la propensione all'export sono: (i) trasformazione tecnologica, anche in chiave sostenibile; e (ii) approccio multi-filiera."
+    },
+    {
+        "instruction": "Cosa è necessario per guidare la trasformazione tecnologica nelle imprese italiane?",
+        "input": "",
+        "output": "Per guidare la trasformazione tecnologica è essenziale intervenire nell'innovazione di prodotto 4.0 e nella formazione del capitale umano, investendo nelle competenze digitali e manageriali."
+    },
+    {
+        "instruction": "Quale impatto ha l'innovazione 4.0 sulle PMI italiane?",
+        "input": "",
+        "output": "Il 37% delle piccole imprese investe in innovazione 4.0 e formazione, ma la percentuale raddoppia per le medie e grandi imprese. Questi investimenti aumentano del 15% la probabilità di iniziare a esportare."
+    },
+    {
+        "instruction": "Qual è il tasso di crescita previsto per le esportazioni delle PMI italiane?",
+        "input": "",
+        "output": "Si prevede che il tasso di crescita delle esportazioni delle PMI italiane raggiungerà l'1,5% quest'anno e il 3,5% l'anno prossimo, toccando i 260 miliardi di euro entro la fine del 2025."
+    },
+    {
+        "instruction": "Quali mercati rappresentano le principali opportunità per le PMI italiane?",
+        "input": "",
+        "output": "Medio Oriente e India rappresentano le principali aree di opportunità per le PMI italiane, mentre le grandi imprese si orienteranno verso l'Asia orientale."
+    },
+    {
+        "instruction": "Come SACE supporta le PMI italiane nei mercati emergenti?",
+        "input": "",
+        "output": "SACE supporta le PMI italiane nei mercati emergenti con lo strumento della Push Strategy, rivolto a mercati ad alto potenziale ma ancora marginali per i flussi di export, come alcuni Paesi africani."
+    },
+    {
+        "instruction": "Cos'è l'approccio multi-filiera e quali vantaggi offre?",
+        "input": "",
+        "output": "L'approccio multi-filiera consente la condivisione di risorse, competenze e innovazione, migliorando efficienza e qualità, riducendo i rischi di concentrazione e aumentando la capacità di espansione internazionale."
+    },
+    {
+        "instruction": "Qual è il ruolo di SACE nel supportare le imprese italiane nell'approccio multi-filiera?",
+        "input": "",
+        "output": "SACE supporta le imprese italiane nell'approccio multi-filiera tramite i suoi strumenti, i suoi uffici su tutto il territorio nazionale e le sue persone."
+    },
+    {
+        "instruction": "Quali sfide devono affrontare le imprese italiane per rimanere competitive?",
+        "input": "",
+        "output": "Le imprese italiane devono evolversi verso un paradigma nuovo, rompendo gli schemi e adottando un approccio dinamico, agile e innovativo, abbracciando le nuove tecnologie e sfruttando le opportunità legate ai rischi."
+    },
+    {
+        "instruction": "Qual è la composizione del tessuto imprenditoriale italiano?",
+        "input": "",
+        "output": "Il tessuto imprenditoriale italiano è composto principalmente da micro imprese, che impiegano la maggior parte degli occupati. Tuttavia, sono le piccole, medie e grandi imprese che generano la maggior parte del Valore Aggiunto nazionale."
+    },
+    {
+        "instruction": "Quanto contribuiscono le PMI italiane all'export nazionale?",
+        "input": "",
+        "output": "Le PMI italiane realizzano all'estero circa un terzo del proprio fatturato e contribuiscono quasi alla metà dell'export nazionale (45%), una percentuale superiore rispetto a quella delle imprese tedesche, francesi e spagnole."
+    },
+    {
+        "instruction": "Qual è la relazione tra la produttività e la dimensione aziendale?",
+        "input": "",
+        "output": "La produttività richiede una dimensione aziendale sufficientemente strutturata per affrontare le sfide del mercato e inserirsi nelle catene del valore."
+    },
+    {
+        "instruction": "Quali imprese hanno registrato le maggiori crescite in termini di Valore Aggiunto nominale nel 2023?",
+        "input": "",
+        "output": "Le medie e grandi imprese hanno registrato le maggiori crescite in termini di Valore Aggiunto nominale nel 2023, mentre le grandi e micro imprese hanno mostrato una crescita maggiore in termini di occupazione."
+    },
+    {
+        "instruction": "Come si prevede che si comporteranno le micro imprese nel contesto economico attuale?",
+        "input": "",
+        "output": "Le micro imprese dovrebbero mostrare una performance complessiva di miglior tenuta nel 2024, alla luce delle criticità del contesto economico."
+    },
+    {
+        "instruction": "Qual è lo stato di salute finanziaria delle imprese italiane?",
+        "input": "",
+        "output": "Le imprese italiane godono di uno stato di salute finanziaria relativamente buono, con una minore domanda di credito a causa dell'elevato livello dei tassi di interesse e del maggiore ricorso all'autofinanziamento."
+    },
+    {
+        "instruction": "Come si prevede che evolverà la qualità del credito per le imprese italiane?",
+        "input": "",
+        "output": "Secondo la Banca d'Italia, la qualità del credito delle imprese italiane, misurata dal Non Performing Loan ratio, dovrebbe rimanere alta nel prossimo anno, con un lieve peggioramento."
+    },
+    {
+        "instruction": "Quali sono le abitudini di pagamento delle imprese italiane?",
+        "input": "",
+        "output": "Secondo Cribis, il 40,4% delle imprese italiane paga puntualmente alla scadenza, mentre i ritardi gravi e superiori ai 30 giorni raggiungono il 9,7%."
+    },
+    {
+        "instruction": "Come variano le abitudini di pagamento tra le imprese in base alla loro dimensione?",
+        "input": "",
+        "output": "Le aziende più piccole risultano più virtuose nei pagamenti, mentre al crescere della dimensione aziendale la percentuale di pagatori puntuali diminuisce. Oltre l'80% delle grandi imprese paga con un ritardo non grave, entro 30 giorni dalla scadenza."
+    },
+    {
+        "instruction": "Cosa indica la leva finanziaria delle imprese e come è cambiata rispetto all'anno precedente?",
+        "input": "",
+        "output": "La leva finanziaria delle imprese, ossia il rapporto tra debiti finanziari e patrimonio netto, è migliorata rispetto all'anno precedente, attestandosi al 35,3%, grazie alla riduzione dei debiti bancari e al rafforzamento della patrimonializzazione."
+    },
+    {
+        "instruction": "Qual è stato l'andamento dei fallimenti delle imprese italiane dopo il periodo pandemico?",
+        "input": "",
+        "output": "Il numero di fallimenti delle imprese italiane è aumentato del 22,3% rispetto al 2023, ma rimane del 16% inferiore rispetto al livello del 2019. Questo incremento riflette il rallentamento economico e la fine delle misure assistenziali del periodo pandemico."
+    },
+    {
+        "instruction": "Come si confrontano i fallimenti delle imprese italiane con quelli di altri Paesi europei?",
+        "input": "",
+        "output": "Germania e Francia hanno registrato incrementi dei fallimenti del 21,9% e 37,1% rispettivamente, mentre la Spagna, già tornata ai livelli pre-pandemia nel 2021, ha segnato una riduzione del 13%."
+    },
+    {
+        "instruction": "Qual è il livello di produttività delle imprese italiane rispetto ai peer europei?",
+        "input": "",
+        "output": "Le medie imprese italiane mostrano un livello di produttività del lavoro superiore ai 70.000 euro, un valore più alto rispetto alle imprese francesi e tedesche. Anche le grandi imprese italiane mostrano una produttività maggiore rispetto ai peer europei."
+    },
+    {
+        "instruction": "Quali sono le previsioni per la crescita del commercio internazionale nei prossimi anni?",
+        "input": "",
+        "output": "Il commercio internazionale di beni è atteso crescere del 2,2% nel 2024 e del 4,7% nel 2025, con un miglioramento delle condizioni di offerta e una riduzione dei prezzi delle materie prime."
+    },
+    {
+        "instruction": "Quali sono le previsioni per l'inflazione e i tassi di interesse nelle economie avanzate?",
+        "input": "",
+        "output": "L'inflazione è attesa continuare a scendere nel 2024, soprattutto nelle economie avanzate, supportando un graduale taglio dei tassi di interesse e il conseguente miglioramento delle condizioni finanziarie globali."
+    },
+    {
+        "instruction": "Quali sono le prospettive di crescita del Pil italiano nel biennio 2024-25?",
+        "input": "",
+        "output": "Il Pil italiano è atteso crescere in media dell'1% nel biennio 2024-25, grazie soprattutto alla componente dell'export, nonostante alcune criticità legate alla produzione industriale."
+    },
+    {
+        "instruction": "Qual è l'andamento della produzione industriale italiana nei primi mesi del 2024?",
+        "input": "",
+        "output": "La produzione industriale italiana ha mostrato una flessione nei primi mesi del 2024, con un calo più accentuato per i beni di consumo durevoli e più contenuto per i beni strumentali e intermedi."
+    },
+    {
+        "instruction": "Cosa rappresenta l'acronimo SPARKLING e quali sono le sue direttrici?",
+        "input": "",
+        "output": "L'acronimo SPARKLING rappresenta le direttrici su cui le imprese devono investire per rafforzare la competitività, resilienza e crescita sostenibile: Smart, Proactive, Agile, Revolutionary, Kinetic, Leader, Innovative, New, Green."
+    },
+    {
+        "instruction": "Quali vantaggi possono ottenere le imprese adottando il paradigma SPARKLING?",
+        "input": "",
+        "output": "Adottando il paradigma SPARKLING, le imprese possono diventare l'onda del cambiamento, garantendo una transizione sostenibile sia internamente che esternamente, e rivedendo modelli operativi e gestionali."
+    },
+    {
+        "instruction": "Quali sono alcuni esempi di PMI che hanno adottato il Green New Deal italiano?",
+        "input": "",
+        "output": "MANIVA ha migliorato la sostenibilità dei suoi processi con packaging riciclabile ed energia rinnovabile, mentre BONFIGLIOLI ha costruito un edificio Nearly ZEB per migliorare l'efficienza energetica, entrambi supportati dalla garanzia green di SACE."
+    },
+    {
+        "instruction": "Qual è stato l'impatto del supporto di SACE durante il periodo emergenziale (2020-2023)?",
+        "input": "",
+        "output": "Il supporto di SACE, attraverso Garanzia Italia e SupportItalia, ha sostenuto oltre 1 milione e 150 mila posti di lavoro e generato un impatto di 184,5 miliardi di euro sulla produzione italiana."
+    },
+    {
+        "instruction": "Qual è stato il ruolo della tecnologia nell'aiutare le imprese italiane a superare le crisi?",
+        "input": "",
+        "output": "Gli investimenti in Industria 4.0 e Intelligenza Artificiale sono stati fondamentali per la resilienza e la crescita delle imprese italiane, garantendo miglioramenti in efficienza, flessibilità, tracciabilità e qualità dei processi produttivi."
+    },
+    {
+        "instruction": "Perché è importante creare un ecosistema dell'innovazione in Italia?",
+        "input": "",
+        "output": "È necessario creare un ecosistema dell'innovazione in Italia per supportare l'imprenditoria innovativa e incentivare gli investimenti in Ricerca & Sviluppo, fondamentali per creare un vantaggio competitivo e migliorare il benessere delle persone."
+    },
+    {
+        "instruction": "Come le imprese italiane hanno saputo riconoscere l'importanza dell'innovazione?",
+        "input": "",
+        "output": "Le imprese italiane hanno riconosciuto la necessità di evolversi verso un nuovo modello di business innovativo, ma devono ancora progredire nel creare un ecosistema che incentivi ulteriormente l'innovazione e gli investimenti in R&S."
+    },
+    {
+        "instruction": "Cosa sono gli ecosistemi innovativi e quali caratteristiche li contraddistinguono?",
+        "input": "",
+        "output": "Gli ecosistemi innovativi sono aree territoriali altamente dinamiche dal punto di vista economico-imprenditoriale, con attenzione agli aspetti scientifici e tecnologici, e che garantiscono equità nell'accesso alle opportunità."
+    },
+    {
+        "instruction": "Come si posiziona l'Italia nel Global Innosystem Index TEHA-GII e quali sono le difficoltà riportate?",
+        "input": "",
+        "output": "L'Italia è al 24° posto su 37 Paesi nel TEHA-GII 2024, con difficoltà legate al divario tra Nord e Sud, che frena lo sviluppo equilibrato della capacità innovativa a livello nazionale."
+    },
+    {
+        "instruction": "Quali rischi devono affrontare oggi le imprese italiane?",
+        "input": "",
+        "output": "Oltre ai rischi tradizionali come quelli di credito e politici, le imprese italiane affrontano nuovi rischi come i rischi cyber e quelli legati alle catastrofi naturali, dato che più del 70% del territorio italiano è esposto a rischio sismico e idrogeologico."
+    },
+    {
+        "instruction": "Perché è importante per le imprese italiane proteggersi dai rischi e come possono farlo?",
+        "input": "",
+        "output": "È fondamentale che le imprese italiane si proteggano con strumenti adeguati contro rischi climatici e catastrofi naturali. Possono contare sul supporto di SACE attraverso la Garanzia Archimede, che crea un effetto leva sull'economia."
+    },
+    {
+        "instruction": "Qual è il ruolo della formazione e della prevenzione nella gestione dei rischi per le imprese?",
+        "input": "",
+        "output": "Le imprese devono investire in formazione continua per il management e la forza lavoro, coprirsi contro i rischi con soluzioni come Protezione Rischio Clima, e investire in prevenzione, messa in sicurezza e riduzione dei rischi connessi alle calamità naturali."
+    },
+    {
+        "instruction": "Cosa rappresentano i distretti industriali italiani per il sistema produttivo nazionale?",
+        "input": "",
+        "output": "I distretti industriali italiani sono un pilastro del sistema produttivo nazionale, caratterizzati da una stretta collaborazione tra PMI, grandi imprese e enti di formazione, favorendo innovazione e produttività nei mercati globali."
+    },
+    {
+        "instruction": "Quali vantaggi offre la specializzazione distrettuale in Italia?",
+        "input": "",
+        "output": "La specializzazione distrettuale permette una divisione del lavoro efficiente, migliorando la produttività, aumentando il fatturato, e riducendo i costi operativi grazie alla vicinanza geografica e alla condivisione di infrastrutture."
+    },
+    {
+        "instruction": "Come contribuiscono i distretti industriali alla crescita economica e allo sviluppo territoriale?",
+        "input": "",
+        "output": "I distretti industriali contribuiscono alla crescita economica, creando posti di lavoro, stimolando l'economia locale e promuovendo una cultura dell'innovazione e qualità, elementi chiave per competere sui mercati internazionali."
+    },
+    {
+        "instruction": "Qual è la produttività dei distretti industriali rispetto alle aree non distrettuali in Italia?",
+        "input": "",
+        "output": "Nel 2022, il Valore Aggiunto per addetto nei distretti industriali è stato di 64.000 euro, il 10,5% in più rispetto alle aree non distrettuali, con una crescita media annua del 3,1% nel periodo 2019-2022."
+    },
+    {
+        "instruction": "Quanti distretti industriali ci sono in Italia e in quali regioni sono maggiormente concentrati?",
+        "input": "",
+        "output": "In Italia ci sono 160 distretti industriali, concentrati principalmente in Lombardia, Veneto, Emilia-Romagna, Piemonte e Toscana."
+    },
+    {
+        "instruction": "Quali sono i principali ambiti produttivi dei distretti industriali italiani?",
+        "input": "",
+        "output": "I principali ambiti produttivi dei distretti industriali italiani sono agro-alimentare (25% del fatturato), sistema moda (25%), e metalmeccanica (19%), concentrati principalmente in Emilia-Romagna, Veneto e Lombardia."
+    },
+    {
+        "instruction": "Qual è l'importanza del settore agro-alimentare nei distretti industriali italiani?",
+        "input": "",
+        "output": "Il settore agro-alimentare rappresenta un quarto del fatturato dei distretti industriali italiani, con circa 4.200 imprese, concentrate principalmente in Emilia-Romagna, Veneto, Lombardia e Campania."
+    },
+    {
+        "instruction": "Qual è l'importanza del sistema moda nei distretti industriali italiani?",
+        "input": "",
+        "output": "Il sistema moda rappresenta il 25% del fatturato totale dei distretti industriali italiani, con oltre 5.700 imprese, concentrate principalmente in Toscana e Veneto."
+    },
+    {
+        "instruction": "Qual è il ruolo della metalmeccanica nei distretti industriali italiani?",
+        "input": "",
+        "output": "La metalmeccanica rappresenta il 19% del fatturato complessivo dei distretti industriali italiani, con circa 4.300 imprese, concentrate principalmente in Lombardia, Emilia-Romagna e Veneto."
+    },
+    {
+        "instruction": "Qual è il contributo del sistema casa e dei sistemi distrettuali dei beni intermedi e dei mezzi di trasporto in Italia?",
+        "input": "",
+        "output": "Il sistema casa genera l'11% del fatturato dei distretti industriali italiani, mentre i sistemi distrettuali dei beni intermedi rappresentano l'8,1% del fatturato e i mezzi di trasporto il 2,5%."
+    },
+    {
+        "instruction": "Qual è la ripartizione delle imprese nei distretti industriali italiani per dimensione?",
+        "input": "",
+        "output": "Più del 43% delle imprese nei distretti industriali italiani sono micro-imprese, ma le aziende più grandi generano il 57,3% del fatturato complessivo dei distretti, contribuendo maggiormente rispetto alle aree non distrettuali."
+    },
+    {
+        "instruction": "Come funziona il Reverse Factoring offerto da SACE per i distretti industriali?",
+        "input": "",
+        "output": "Il Reverse Factoring di SACE consente alle medie e grandi imprese di migliorare i rapporti con i fornitori, ottimizzare il ciclo passivo e offrire accesso ai servizi di factoring per l'anticipo dei crediti, con tassi di sconto legati al rating ESG dei fornitori."
+    },
+    {
+        "instruction": "Qual è stato il fatturato complessivo delle imprese distrettuali italiane nel 2022?",
+        "input": "",
+        "output": "Nel 2022, le imprese distrettuali italiane hanno registrato un fatturato complessivo di 327 miliardi di euro, con incidenze elevate nei settori dell'agro-alimentare (82,5 miliardi), del sistema moda (82,4 miliardi) e della meccanica (63,2 miliardi)."
+    },
+    {
+        "instruction": "Cosa sono le imprese 'champion' nei distretti industriali italiani?",
+        "input": "",
+        "output": "Le imprese 'champion' nei distretti industriali italiani sono aziende leader che si distinguono per crescita, solidità patrimoniale, occupazione e marginalità, e rappresentano il 12,7% del totale delle imprese distrettuali."
+    },
+    {
+        "instruction": "Qual è la distribuzione geografica delle imprese 'champion' nei distretti industriali italiani?",
+        "input": "",
+        "output": "Le imprese 'champion' nei distretti industriali italiani sono concentrate principalmente nel Nord-Ovest (14,4%) e Nord-Est (13,7%) dell'Italia, mentre il Centro e il Mezzogiorno mostrano un divario rispetto al resto del Paese."
+    },
+    {
+        "instruction": "In quali settori operano principalmente le imprese 'champion' italiane?",
+        "input": "",
+        "output": "Le imprese 'champion' italiane operano in settori strategici come la meccanica (macchine agricole, meccatronica), l'agro-alimentare (vini, distillati, conserve) e il sistema moda (oreficeria, occhialeria)."
+    },
+    {
+        "instruction": "Quali sono i criteri applicati per definire un'impresa 'champion' nei distretti industriali italiani?",
+        "input": "",
+        "output": "I criteri includono fatturato maggiore di 150mila euro, crescita del fatturato superiore alla mediana di settore nel quadriennio 2019-2022, EBITDA margin superiore al 6% nel 2021 e all'8% nel 2022, aumento degli addetti, patrimonio netto sul totale passivo pari almeno al 30%, e rating investment grade o intermedi per Intesa Sanpaolo."
+    },
+    {
+        "instruction": "Qual è stato il valore delle esportazioni delle imprese distrettuali italiane nel 2022?",
+        "input": "",
+        "output": "Nel 2022, le imprese distrettuali italiane hanno esportato beni per un valore di 149,1 miliardi di euro, pari a un quarto dell'export manifatturiero nazionale."
+    },
+    {
+        "instruction": "Quali sono i principali settori che hanno contribuito all'export delle imprese distrettuali nel 2022?",
+        "input": "",
+        "output": "I principali settori che hanno contribuito all'export delle imprese distrettuali nel 2022 sono la meccanica strumentale (41,3 miliardi di euro), il sistema moda (31 miliardi) e l'industria alimentare e delle bevande (22,4 miliardi)."
+    },
+    {
+        "instruction": "Come è cambiato l'export complessivo delle imprese distrettuali italiane dal 2019 al 2023?",
+        "input": "",
+        "output": "L'export complessivo delle imprese distrettuali italiane è aumentato del 19,4%, passando da circa 125 a 149,1 miliardi di euro tra il 2019 e il 2023, con distretti come l'agroalimentare (+7,7%) e la metalmeccanica (+5,3%) che hanno mostrato una forte crescita."
+    },
+    {
+        "instruction": "Qual è il ruolo strategico dei distretti industriali nell'economia nazionale?",
+        "input": "",
+        "output": "I distretti industriali italiani non solo generano valore aggiunto nei rispettivi settori, ma contribuiscono anche alla crescita delle esportazioni italiane, superando i livelli pre-pandemici e rafforzando la loro importanza strategica per l'economia nazionale."
+    },
+    {
+        "instruction": "Quali regioni italiane contribuiscono maggiormente alle esportazioni distrettuali nazionali?",
+        "input": "",
+        "output": "Le principali regioni italiane che contribuiscono alle esportazioni distrettuali nazionali sono la Lombardia (24,1%), il Veneto (21,8%), la Toscana (15,6%), l'Emilia-Romagna (14,3%) e il Piemonte (8,9%). Queste 5 regioni rappresentano l'84% dell'export distrettuale totale."
+    },
+    {
+        "instruction": "Qual è l'incidenza dell'export dei distretti sul totale delle esportazioni manifatturiere in alcune regioni italiane?",
+        "input": "",
+        "output": "Nel Centro-Nord, l'export dei distretti rappresenta tra un quarto e la metà delle esportazioni manifatturiere: Trentino-Alto Adige (48,2%), Toscana (42,5%), Veneto (40,9%), Emilia-Romagna (25,6%), con l'eccezione della Puglia nel Mezzogiorno (47,4%)."
+    },
+    {
+        "instruction": "Quali regioni del Centro-Sud Italia hanno mostrato una crescita dinamica nelle vendite all'estero tra il 2019 e il 2023?",
+        "input": "",
+        "output": "Le regioni del Centro-Sud Italia come Campania, Sicilia, Sardegna, Umbria e Abruzzo hanno registrato una performance dinamica nelle vendite all'estero, con una crescita del +4,5% nel periodo 2019-2023."
+    },
+    {
+        "instruction": "Qual è il ruolo dei distretti metalmeccanici nell'export italiano?",
+        "input": "",
+        "output": "I distretti metalmeccanici sono un macro-settore chiave per l'export italiano, con il 51% delle esportazioni concentrate nei mercati dell'UE-27. I principali distretti sono localizzati in Lombardia, Emilia-Romagna e Veneto."
+    },
+    {
+        "instruction": "Quali sono i principali distretti della meccanica strumentale in Italia?",
+        "input": "",
+        "output": "I principali distretti della meccanica strumentale in Italia includono Milano e Monza (6,3 miliardi di euro di export), Brescia (5,2 miliardi per metalli) e Reggio Emilia (4,6 miliardi per macchinari ad alta tecnologia)."
+    },
+    {
+        "instruction": "Quali sono i principali distretti della meccanica strumentale in Italia e il loro contributo all'export?",
+        "input": "",
+        "output": "I principali distretti della meccanica strumentale in Italia includono Milano e Monza (6,3 miliardi di euro di export), Brescia (5,2 miliardi di euro per metalli), e Reggio Emilia (4,6 miliardi per macchinari ad alta tecnologia)."
+    },
+    {
+        "instruction": "Qual è il secondo settore più rilevante per le esportazioni distrettuali italiane?",
+        "input": "",
+        "output": "Il secondo settore più rilevante è il sistema moda, con 31 miliardi di euro di export, di cui il 46,9% destinato ai Paesi UE-27. La Toscana e il Veneto sono le regioni leader in questo settore."
+    },
+    {
+        "instruction": "Quali sono i principali distretti del sistema moda in Toscana e Veneto?",
+        "input": "",
+        "output": "In Toscana, i principali distretti del sistema moda includono la pelletteria e calzature di Firenze (6,1 miliardi di euro) e il tessile-abbigliamento di Prato (2,3 miliardi). In Veneto, la concia di Vicenza (2,3 miliardi) e il tessile-abbigliamento di Vicenza (1,7 miliardi) sono i più rilevanti."
+    },
+    {
+        "instruction": "Quali sono i principali distretti del settore agro-alimentare e il loro contributo all'export?",
+        "input": "",
+        "output": "I principali distretti dell'agro-alimentare includono i vini di Cuneo, Asti e Alessandria (2 miliardi di euro), i dolci di Cuneo (1,8 miliardi) e le conserve di Salerno (1,5 miliardi), con il 57,2% dell'export destinato ai Paesi UE-27."
+    },
+    {
+        "instruction": "Quali distretti del sistema casa hanno contribuito maggiormente all'export nel 2023?",
+        "input": "",
+        "output": "I principali distretti del sistema casa includono le piastrelle di Modena e Reggio Emilia (3,7 miliardi di euro), i legni e mobili di Monza Brianza, Milano e Como (2,9 miliardi), e i casalinghi in metallo di Brescia (2,6 miliardi)."
+    },
+    {
+        "instruction": "Quali sfide devono affrontare i distretti italiani per mantenere la loro competitività?",
+        "input": "",
+        "output": "I distretti italiani devono affrontare sfide legate alla globalizzazione, automazione e sostenibilità ambientale. Per mantenere la competitività, è fondamentale che si adattino rapidamente alle nuove tecnologie e rendano i processi produttivi più ecologici e sostenibili."
+    },
+    {
+        "instruction": "Come possono i distretti italiani adattarsi alle sfide della globalizzazione e della sostenibilità?",
+        "input": "",
+        "output": "I distretti italiani possono adattarsi alle sfide attraverso l'innovazione continua, mantenendo stretti legami con il territorio e le istituzioni locali, e beneficiando delle politiche industriali che supportano ricerca e sviluppo, formazione e sostenibilità ambientale."
+    },
+    {
+        "instruction": "Qual è il vantaggio del modello distrettuale per le imprese italiane?",
+        "input": "",
+        "output": "Il modello distrettuale permette alle imprese italiane di fare rete e collaborare su progetti comuni, condividendo risorse, conoscenze e competenze, riducendo i costi e aumentando l'efficienza del sistema."
+    },
+    {
+        "instruction": "Come il modello distrettuale ha ricevuto supporto dalle politiche nazionali ed europee?",
+        "input": "",
+        "output": "Le politiche nazionali ed europee hanno riconosciuto l'importanza dei distretti industriali, promuovendo iniziative di sostegno attraverso finanziamenti pubblici per ricerca, innovazione, programmi di formazione e infrastrutture condivise."
+    },
+    {
+        "instruction": "Cos'è il Programma Operativo Nazionale 'Ricerca e Innovazione' e quale è stato il suo impatto sui distretti industriali?",
+        "input": "",
+        "output": "Il Programma Operativo Nazionale 'Ricerca e Innovazione' 2014-2020 ha stanziato 729,7 milioni di euro per sostenere la competitività delle PMI nei distretti industriali, finanziando progetti di ricerca collaborativa e innovazione tecnologica."
+    },
+    {
+        "instruction": "Come si distingue il modello delle filiere produttive rispetto ai distretti industriali?",
+        "input": "",
+        "output": "Le filiere produttive sono reti integrate che gestiscono tutte le fasi del processo produttivo, dalla fornitura delle materie prime alla distribuzione del prodotto finale, migliorando l'efficienza, l'innovazione e la sostenibilità rispetto ai distretti industriali."
+    },
+    {
+        "instruction": "Quali sfide affrontano i distretti industriali e come le filiere produttive rispondono a queste sfide?",
+        "input": "",
+        "output": "I distretti industriali affrontano sfide come la specializzazione limitata e la competizione locale. Le filiere produttive rispondono a queste sfide integrando verticalmente più fasi del processo produttivo, espandendosi verso mercati globali e adottando pratiche sostenibili."
+    },
+    {
+        "instruction": "Quali sono i vantaggi dell'integrazione verticale nelle filiere produttive?",
+        "input": "",
+        "output": "L'integrazione verticale consente alle imprese di controllare più fasi del processo produttivo, migliorando l'efficienza, la qualità e facilitando l'espansione su scala internazionale, sfruttando sinergie e competenze complementari."
+    },
+    {
+        "instruction": "Come le filiere moderne rispondono alla crescente domanda di prodotti sostenibili?",
+        "input": "",
+        "output": "Le filiere moderne integrano pratiche sostenibili lungo l'intera catena del valore, dalla fornitura alla distribuzione, rispondendo alla crescente domanda di prodotti socialmente responsabili."
+    },
+    {
+        "instruction": "Come il modello delle filiere produttive supera i limiti geografici dei distretti industriali?",
+        "input": "",
+        "output": "Il modello delle filiere produttive crea una rete globale di collaborazione, distribuendo le fasi della produzione in diverse regioni e Paesi, ottimizzando le risorse e facilitando l'accesso ai mercati internazionali."
+    },
+    {
+        "instruction": "Quali sono le filiere a cui le imprese italiane dichiarano di contribuire maggiormente?",
+        "input": "",
+        "output": "Le filiere a cui le imprese italiane dichiarano di contribuire maggiormente sono l'agro-alimentare (20% delle imprese), l'edilizia (16,2%) e il turismo (12,9%), insieme alla produzione di energia e all'abbigliamento."
+    },
+    {
+        "instruction": "Quante imprese partecipano a più filiere contemporaneamente?",
+        "input": "",
+        "output": "La maggior parte delle imprese italiane (4 su 5) partecipa a una sola filiera. Anche nelle imprese con almeno 250 addetti, oltre due terzi operano esclusivamente in una singola filiera."
+    },
+    {
+        "instruction": "Quali settori hanno un ruolo predominante nella creazione di Valore Aggiunto nelle filiere italiane?",
+        "input": "",
+        "output": "Il commercio all'ingrosso è in testa con un contributo medio del 8,3% al Valore Aggiunto delle filiere, seguito dal magazzinaggio e supporto ai trasporti (6,7%) e dal trasporto terrestre (5,5%)."
+    },
+    {
+        "instruction": "Qual è il contributo dell'industria manifatturiera alla creazione di Valore Aggiunto nelle filiere?",
+        "input": "",
+        "output": "Tra le attività manifatturiere, i macchinari e le apparecchiature contribuiscono in media per il 4,4% alla generazione del Valore Aggiunto nelle filiere, seguiti dai prodotti in metallo (4,3%) e dai lavori di costruzione specializzati (3,2%)."
+    },
+    {
+        "instruction": "Qual è il ruolo delle tecnologie ICT nella creazione di Valore Aggiunto?",
+        "input": "",
+        "output": "Le tecnologie ICT, come la produzione di software e la consulenza informatica, hanno un apporto del 2,9% alla creazione di Valore Aggiunto, con un impatto significativo nella finanza (17%) e nei trasporti su gomma (16,3%)."
+    },
+    {
+        "instruction": "Come i settori tradizionali e ad elevato contenuto tecnologico contribuiscono alla creazione di Valore Aggiunto?",
+        "input": "",
+        "output": "I settori tradizionali e quelli ad elevato contenuto tecnologico giocano un ruolo cruciale nella creazione di Valore Aggiunto, contribuendo allo sviluppo delle filiere produttive e di servizi, in particolare nei settori come la finanza, trasporti e produzione audio-video."
+    },
+    {
+        "instruction": "Cosa si intende per 'filiere sistemiche' e quali sono gli indicatori utilizzati per valutarle?",
+        "input": "",
+        "output": "Le 'filiere sistemiche' sono caratterizzate da una rilevanza economica e relazionale significativa. Gli indicatori utilizzati per valutarle includono il numero di addetti, il fatturato, l'età, l'intensità di capitale e il contributo dell'impresa all'attivazione del proprio settore."
+    },
+    {
+        "instruction": "Quali sono le principali filiere ad elevata rilevanza sistemica in Italia?",
+        "input": "",
+        "output": "Le principali filiere ad elevata rilevanza sistemica in Italia sono macchine industriali, edilizia, agro-alimentare, abbigliamento, mezzi di trasporto su gomma, energia, sanità, farmaceutica e cure."
+    },
+    {
+        "instruction": "Qual è il contributo delle filiere sistemiche al Valore Aggiunto, all'occupazione e all'export?",
+        "input": "",
+        "output": "Le filiere sistemiche contribuiscono al 56,4% del Valore Aggiunto, al 52,3% dell'occupazione e al 67,3% dell'export delle imprese con almeno 3 addetti."
+    },
+    {
+        "instruction": "Quali settori includono una presenza significativamente superiore di imprese sistemiche?",
+        "input": "",
+        "output": "I settori con una presenza superiore di imprese sistemiche includono servizi infrastrutturali, energetico-ambientali (trasporto aereo, ferroviario, fornitura di energia, gestione dei rifiuti), aerospazio, difesa e produzione di mezzi di trasporto su rotaia."
+    },
+    {
+        "instruction": "Come può il modello di filiera aiutare le PMI italiane?",
+        "input": "",
+        "output": "Il modello di filiera può migliorare l'efficienza operativa, l'innovazione e la competitività delle PMI, permettendo loro di ridurre i costi, accedere a nuove tecnologie e mercati internazionali, e aumentare la resilienza alle fluttuazioni economiche."
+    },
+    {
+        "instruction": "Qual è l'importanza delle reti create all'interno delle filiere per le imprese italiane?",
+        "input": "",
+        "output": "Le reti create all'interno delle filiere favoriscono la cooperazione e la fiducia reciproca, aumentando la flessibilità e l'adattabilità delle PMI e delle grandi imprese, rendendole più agili nel fronteggiare le sfide del mercato."
+    },
+    {
+        "instruction": "Cos'è la Push Strategy di SACE e quali sono i suoi obiettivi principali?",
+        "input": "",
+        "output": "La Push Strategy di SACE è un'operazione strategica volta a garantire la sicurezza energetica e sostenere l'export italiano, assicurando la continuità nella fornitura di materie prime critiche e favorendo la crescita dell'export."
+    },
+    {
+        "instruction": "In che modo SACE collabora con ofi per sostenere la filiera della torrefazione in Italia?",
+        "input": "",
+        "output": "SACE collabora con ofi per un'operazione da circa 500 milioni di dollari, volta a sostenere la filiera della torrefazione italiana e garantire l'importazione di caffè crudo di qualità, creando nuove opportunità di export per le supply chain collegate."
+    },
+    {
+        "instruction": "Cosa sono le Reti Innovative Regionali (RIR) in Veneto e qual è il loro obiettivo?",
+        "input": "",
+        "output": "Le Reti Innovative Regionali (RIR) in Veneto sono sistemi di imprese e soggetti pubblici e privati che collaborano per promuovere progetti rilevanti per l'economia regionale, avvicinando il mondo delle PMI alla ricerca e favorendo l'innovazione."
+    },
+    {
+        "instruction": "Quali sono i settori principali coperti dalle Reti Innovative Regionali (RIR) in Veneto?",
+        "input": "",
+        "output": "I settori principali coperti dalle RIR in Veneto includono Smart Agrifood, Smart Manufacturing, Smart Living & Energy, Smart Health, Cultura e Creatività, e Destinazione Intelligente."
+    },
+    {
+        "instruction": "Qual è il ruolo delle microimprese nelle tecnologie rinnovabili in Veneto?",
+        "input": "",
+        "output": "Le microimprese nelle tecnologie rinnovabili in Veneto crescono in media del 13% rispetto al 6% delle grandi imprese e detengono la maggioranza dei brevetti nei settori dell'eolico e del solare termico, dimostrando un'elevata capacità competitiva."
+    },
+    {
+        "instruction": "Qual è il ruolo della Lombardia nella partecipazione in rete e nelle filiere italiane?",
+        "input": "",
+        "output": "La Lombardia rappresenta circa il 15% delle imprese italiane organizzate in filiera, con una solida infrastruttura industriale e una forte tradizione di innovazione in settori chiave."
+    },
+    {
+        "instruction": "Quanto investono le aziende lombarde della meccanica avanzata in ricerca e sviluppo (R&S)?",
+        "input": "",
+        "output": "Le aziende lombarde della meccanica avanzata investono circa il 4% del loro fatturato in ricerca e sviluppo (R&S), mantenendo elevati standard di qualità e innovazione."
+    },
+    {
+        "instruction": "Quali sono i settori più rilevanti per l'economia della Lombardia in termini di innovazione e fatturato?",
+        "input": "",
+        "output": "I settori più rilevanti in Lombardia includono le biotecnologie, con oltre 300 aziende che generano 5 miliardi di euro, e il settore ICT, con oltre 10.000 aziende che generano un fatturato di 30 miliardi di euro all'anno."
+    },
+    {
+        "instruction": "Quali sono le 'filiere del futuro' in cui SACE si impegna a sostenere il sistema Paese?",
+        "input": "",
+        "output": "Le 'filiere del futuro' sostenute da SACE includono l'edilizia intelligente (smart building), l'agritech nell'agro-alimentare e le fonti energetiche rinnovabili come l'eolico offshore e l'idrogeno."
+    },
+    {
+        "instruction": "Qual è il potenziale delle smart city nel migliorare la qualità della vita urbana?",
+        "input": "",
+        "output": "Le smart city, grazie a tecnologie avanzate come l'IoT e l'intelligenza artificiale, promettono di migliorare la qualità della vita urbana, ottimizzando l'uso delle risorse e riducendo l'impatto ambientale."
+    },
+    {
+        "instruction": "Come la filiera agro-alimentare sta evolvendo grazie all'agritech?",
+        "input": "",
+        "output": "L'agritech rivoluziona le pratiche agricole tradizionali, migliorando l'efficienza e la sostenibilità della produzione alimentare, rispondendo alle sfide energetiche e climatiche globali."
+    },
+    {
+        "instruction": "Qual è stato il contributo della filiera degli edifici intelligenti all'economia nel 2022?",
+        "input": "",
+        "output": "Nel 2022, la filiera degli edifici intelligenti ha generato un fatturato di 174 miliardi di euro e un Valore Aggiunto di 38 miliardi di euro, supportando circa 515.000 posti di lavoro."
+    },
+    {
+        "instruction": "Quali sono gli obiettivi della strategia di decarbonizzazione del settore delle costruzioni promossa dall'UE?",
+        "input": "",
+        "output": "La strategia di decarbonizzazione del settore delle costruzioni, promossa dall'UE attraverso il pacchetto 'Fit for 55', mira ad azzerare le emissioni del patrimonio immobiliare entro il 2050."
+    },
+    {
+        "instruction": "Quali regioni italiane contribuiscono maggiormente al Valore Aggiunto della filiera Smart Building?",
+        "input": "",
+        "output": "Le regioni italiane che contribuiscono maggiormente al Valore Aggiunto della filiera Smart Building sono Lombardia (31,9%) e Lazio (14,0%), seguite da Emilia-Romagna, Veneto e Piemonte."
+    },
+    {
+        "instruction": "Come SACE ha sostenuto lo sviluppo degli edifici smart nel quartiere UpTown di Milano?",
+        "input": "",
+        "output": "SACE ha garantito un finanziamento da 101 milioni di euro per EuroMilano, una società immobiliare impegnata nello sviluppo di edifici residenziali e commerciali nel quartiere UpTown di Milano."
+    },
+    {
+        "instruction": "Quali sono i numeri chiave della filiera Smart Building in Italia?",
+        "input": "",
+        "output": "La filiera Smart Building in Italia conta circa 350.000 aziende, con una crescita del fatturato del 34,1% tra il 2018 e il 2022, e un incremento occupazionale del 10,7% nello stesso periodo."
+    },
+    {
+        "instruction": "Quali sono i moltiplicatori economici e occupazionali della filiera Smart Building?",
+        "input": "",
+        "output": "Il moltiplicatore economico della filiera Smart Building è di 2,87, mentre il moltiplicatore occupazionale è di 2,78, significando che 100 unità di lavoro attivano altre 178 nell'economia più ampia."
+    },
+    {
+        "instruction": "Qual è il contributo dell'agritech alla crescita della filiera agro-alimentare in Italia?",
+        "input": "",
+        "output": "L'agritech è adottato dal 64% delle aziende agricole italiane, con un valore di 1,6 miliardi di euro nel 2023. Le tecnologie come il vertical farming, i droni e l'IoT stanno migliorando l'efficienza e la sostenibilità delle pratiche agricole tradizionali."
+    },
+    {
+        "instruction": "Quali sono i risultati delle esportazioni agro-alimentari italiane nel 2023?",
+        "input": "",
+        "output": "Nel 2023, le esportazioni agro-alimentari italiane hanno raggiunto un record di 62,2 miliardi di euro, con una crescita media annua del 6,4% dal 2010, concentrate per il 90% verso nazioni europee."
+    },
+    {
+        "instruction": "Qual è la posizione dell'Europa nel settore dell'energia eolica e cosa rappresenta per l'Italia?",
+        "input": "",
+        "output": "L'Europa detiene una posizione di leadership nel settore dell'energia eolica, con un 'first mover advantage' nel segmento offshore bottom-fixed. L'Italia ha un grande potenziale nello sviluppo dell'eolico offshore galleggiante, specialmente nel Mezzogiorno, grazie alle sue risorse industriali e infrastrutture portuali."
+    },
+    {
+        "instruction": "Qual è il potenziale economico dell'eolico offshore galleggiante in Italia?",
+        "input": "",
+        "output": "L'eolico offshore galleggiante in Italia potrebbe generare 57 miliardi di euro di Valore Aggiunto e creare 27.000 nuovi posti di lavoro entro il 2050, con investimenti previsti di 54 miliardi di euro."
+    },
+    {
+        "instruction": "Quali sono le previsioni di crescita globale del mercato dell'eolico offshore galleggiante?",
+        "input": "",
+        "output": "Il mercato globale dell'eolico offshore galleggiante è previsto raggiungere un valore di 50 miliardi di euro entro il 2030 e 1.179 miliardi di euro entro il 2050, evidenziando l'importanza di investire in questo settore per restare competitivi."
+    },
+    {
+        "instruction": "Qual è stato il contributo di SACE alla Gigafactory 3Sun di Enel Green Power a Catania?",
+        "input": "",
+        "output": "SACE ha garantito un finanziamento da 560 milioni di euro per la Gigafactory 3Sun di Enel Green Power a Catania, che aumenterà la capacità produttiva di celle e moduli fotovoltaici da 200 megawatt a 3 gigawatt annui, diventando la più grande fabbrica di celle solari in Europa."
+    },
+    {
+        "instruction": "Quali sono le differenze tra idrogeno blu e idrogeno verde nella produzione di energia?",
+        "input": "",
+        "output": "L'idrogeno blu viene prodotto utilizzando fonti fossili con emissioni ridotte, mentre l'idrogeno verde è prodotto con fonti rinnovabili e ha un bilancio di emissioni di gas serra tendente a zero, rappresentando il futuro della produzione di idrogeno a basso impatto ambientale."
+    },
+    {
+        "instruction": "Qual è la posizione dell'Italia nella produzione di tecnologie per la filiera dell'idrogeno in Europa?",
+        "input": "",
+        "output": "L'Italia è il secondo produttore in Europa di tecnologie meccaniche utilizzabili nella filiera dell'idrogeno, con una quota di mercato del 19,3%. Tuttavia, è dietro alla Germania, che detiene il 40% della quota di mercato."
+    },
+    {
+        "instruction": "Qual è il potenziale economico della filiera dell'idrogeno in Italia entro il 2050?",
+        "input": "",
+        "output": "Entro il 2050, la filiera dell'idrogeno in Italia potrebbe valere 35 miliardi di euro in termini di produzione e generare un contributo al PIL di 37 miliardi di euro, creando 540.000 nuovi posti di lavoro."
+    },
+    {
+        "instruction": "Qual è l'impatto economico della crescita dell'idrogeno sulla produzione e occupazione in Italia?",
+        "input": "",
+        "output": "La crescita dell'idrogeno potrebbe generare un contributo al PIL di 7,5 miliardi di euro al 2030 e 37 miliardi al 2050, con un moltiplicatore economico di 3,7. Inoltre, potrebbe creare 115.000 posti di lavoro al 2030 e 540.000 al 2050."
+    },
+    {
+        "instruction": "Quante imprese italiane erano esportatrici nel 2022 e qual è stato l'andamento rispetto agli anni precedenti?",
+        "input": "",
+        "output": "Nel 2022, in Italia c'erano quasi 121.000 imprese esportatrici, il 2,6% del totale. Le micro imprese hanno registrato un lieve calo dal 2018, mentre le medie e grandi imprese sono cresciute di circa il 2%."
+    },
+    {
+        "instruction": "Qual è stato l'andamento dell'export delle imprese italiane negli ultimi cinque anni?",
+        "input": "",
+        "output": "Le grandi imprese italiane hanno registrato un aumento medio dell'8,3% dell'export negli ultimi cinque anni, seguite dalle medie imprese con un +7,1%. Le piccole e micro imprese hanno registrato performance inferiori alla media."
+    },
+    {
+        "instruction": "Qual è la differenza nella propensione all'export tra piccole, medie e grandi imprese italiane?",
+        "input": "",
+        "output": "Oltre la metà delle piccole imprese italiane esporta meno del 10% del proprio fatturato, mentre solo il 18% esporta più della metà. Le medie imprese sono più propense, con quasi un terzo che esporta oltre il 50% del fatturato, mentre nelle grandi imprese il 40% genera più del 50% del fatturato dall'export."
+    },
+    {
+        "instruction": "Qual è il contributo delle imprese parte di gruppi multinazionali all'export italiano?",
+        "input": "",
+        "output": "Le imprese parte di gruppi multinazionali rappresentano l'11% delle imprese esportatrici italiane, ma generano oltre il 70% dell'export complessivo."
+    },
+    {
+        "instruction": "Quali sono le barriere principali che limitano l'export delle micro e piccole imprese italiane?",
+        "input": "",
+        "output": "Le barriere principali che limitano l'export delle micro e piccole imprese italiane includono i costi burocratici, informativi e finanziari, oltre alla loro minore capacità di superare tali ostacoli rispetto alle imprese di maggiori dimensioni."
+    },
+    {
+        "instruction": "Cos'è l'export indiretto e come influenza le piccole imprese italiane?",
+        "input": "",
+        "output": "L'export indiretto si verifica quando le piccole imprese sono inserite nelle catene di fornitura di player più grandi, contribuendo alle esportazioni di altre imprese senza esportare direttamente."
+    },
+    {
+        "instruction": "Come SACE sta supportando le piccole imprese italiane nel percorso di internazionalizzazione?",
+        "input": "",
+        "output": "SACE ha lanciato iniziative di business matching per connettere buyer esteri con PMI italiane, facilitando il loro accesso ai mercati esteri. Finora sono state organizzate 208 iniziative, coinvolgendo oltre 7.000 PMI."
+    },
+    {
+        "instruction": "In quali settori operano principalmente le imprese esportatrici italiane?",
+        "input": "",
+        "output": "Circa la metà delle imprese esportatrici italiane è attiva nella manifattura, con una quota che sale oltre il 75% per le medie imprese e il 60% per le grandi e piccole imprese."
+    },
+    {
+        "instruction": "Quali sono i principali settori manifatturieri italiani per l'export?",
+        "input": "",
+        "output": "I principali settori manifatturieri italiani per l'export sono i prodotti in metallo e la meccanica strumentale, entrambi rappresentano il 16% delle imprese esportatrici. Seguono alimentari e bevande, abbigliamento, gomma e plastica."
+    },
+    {
+        "instruction": "In quali settori le grandi imprese italiane sono più rilevanti per l'export?",
+        "input": "",
+        "output": "Le grandi imprese italiane sono più rilevanti in settori che richiedono economie di scala e risorse ingenti per innovazione tecnologica, come chimica, farmaceutica, automotive, altri mezzi di trasporto e apparecchi elettrici ed elettronici."
+    },
+    {
+        "instruction": "Qual è il ruolo delle PMI nell'export di prodotti in metallo e meccanica strumentale?",
+        "input": "",
+        "output": "Le PMI italiane sono particolarmente attive nell'export di prodotti in metallo e meccanica strumentale, settori in cui tutte le classi dimensionali di impresa contribuiscono in maniera significativa, con un'incidenza dell'export superiore al 10%."
+    },
+    {
+        "instruction": "In quali settori le micro imprese italiane sono più numerose per l'export?",
+        "input": "",
+        "output": "Le micro imprese italiane sono più numerose nei settori di abbigliamento, altra manifattura, mobili, lavorazione di minerali non metalliferi, legno e prodotti in legno, e articoli in pelle, settori che evidenziano il carattere artigianale del Made in Italy."
+    },
+    {
+        "instruction": "Quali sono i settori in cui le grandi imprese dominano l'export italiano?",
+        "input": "",
+        "output": "Le grandi imprese dominano l'export italiano nei settori della farmaceutica, autoveicoli, altri mezzi di trasporto e prodotti chimici, generando la maggior parte delle esportazioni in questi settori."
+    },
+    {
+        "instruction": "Come l'innovazione 4.0 e la formazione stanno guidando la competitività internazionale delle imprese italiane?",
+        "input": "",
+        "output": "L'innovazione 4.0 e la formazione permettono alle imprese italiane di essere più flessibili, agili e veloci, migliorando la capacità di produzione tailor-made e la qualità dei prodotti, e aumentando il valore del bene prodotto."
+    },
+    {
+        "instruction": "Qual è il ruolo del capitale umano nella trasformazione digitale delle imprese italiane?",
+        "input": "",
+        "output": "Il capitale umano è cruciale per massimizzare i benefici della trasformazione digitale, specialmente a fronte della rapida evoluzione tecnologica. La combinazione di tecnologie 4.0 e formazione è fondamentale per aumentare la competitività delle imprese."
+    },
+    {
+        "instruction": "Quante imprese italiane hanno investito in innovazione di prodotto 4.0 e formazione tra il 2021 e il 2023?",
+        "input": "",
+        "output": "Secondo l'indagine del Centro Studi Tagliacarne, un'azienda italiana su cinque ha investito in innovazione di prodotto 4.0 e formazione tra il 2021 e il 2023, in particolare tra le imprese di medie e grandi dimensioni."
+    },
+    {
+        "instruction": "Qual è il ritardo delle imprese manifatturiere italiane tradizionali nell'adozione delle tecnologie 4.0?",
+        "input": "",
+        "output": "Il ritardo delle imprese manifatturiere italiane tradizionali, ossia quelle a bassa intensità tecnologica, nell'adozione delle tecnologie 4.0 è ancora presente. Solo il 20% delle imprese low-tech ha fatto innovazione di prodotto 4.0 e formazione, rispetto al 27% delle high-tech."
+    },
+    {
+        "instruction": "Come si suddividono le imprese italiane tra low-tech e high-tech per gli investimenti in tecnologie 4.0?",
+        "input": "",
+        "output": "Le imprese italiane low-tech operano in settori tradizionali come abbigliamento, tessile, gomma, carta e metalli, mentre le high-tech operano in settori avanzati come chimica, farmaceutica, elettronica e automotive, con una maggiore propensione all'adozione delle tecnologie 4.0."
+    },
+    {
+        "instruction": "Qual è l'effetto combinato di innovazione 4.0 e formazione sulla capacità di export delle imprese italiane?",
+        "input": "",
+        "output": "L'effetto combinato di innovazione 4.0 e formazione aumenta significativamente la capacità di export delle imprese italiane, con il 59% delle imprese che esportano più del 20% del proprio fatturato, rispetto al 39% delle imprese che non hanno adottato innovazioni."
+    },
+    {
+        "instruction": "In quali settori l'effetto combinato di innovazione 4.0 e formazione è più forte?",
+        "input": "",
+        "output": "L'effetto combinato di innovazione 4.0 e formazione è più forte nei settori tradizionali low-tech, con un incremento di 20 punti percentuali nella capacità di export rispetto alle imprese che non hanno adottato innovazioni."
+    },
+    {
+        "instruction": "Qual è il ruolo della formazione nell'innovazione di prodotto 4.0 per le imprese italiane?",
+        "input": "",
+        "output": "La formazione, unita all'innovazione di prodotto 4.0, è fondamentale per aumentare la propensione all'export delle imprese italiane. Limitarsi alla sola innovazione senza investire nella formazione ha un impatto limitato sulla capacità di esportazione."
+    },
+    {
+        "instruction": "Come l'innovazione 4.0 e la formazione influenzano la varietà del portafoglio prodotti delle imprese italiane esportatrici?",
+        "input": "",
+        "output": "Le imprese che investono in innovazione 4.0 e formazione tendono ad avere un portafoglio prodotti più ampio. Tra le imprese esportatrici, l'86% di quelle che hanno investito in tecnologie e formazione esportano tre o più prodotti, rispetto al 74% delle imprese che non hanno investito."
+    },
+    {
+        "instruction": "Qual è l'effetto dell'innovazione 4.0 e formazione sulla probabilità di iniziare a esportare per le imprese italiane?",
+        "input": "",
+        "output": "Le imprese italiane che hanno innovato in chiave 4.0 e investito nella formazione hanno una probabilità del 15% maggiore di iniziare a esportare rispetto a quelle che non hanno investito. L'effetto è molto più limitato (2%) per le imprese che hanno innovato solo senza investire nella formazione."
+    },
+    {
+        "instruction": "Qual è il ruolo delle istituzioni nel supportare le PMI italiane nella trasformazione 4.0?",
+        "input": "",
+        "output": "Le istituzioni giocano un ruolo fondamentale nell'accompagnare le PMI italiane nella trasformazione 4.0, soprattutto in settori tradizionali e per imprese di piccole dimensioni. Le aziende che innovano e investono nello sviluppo delle competenze interagiscono maggiormente con le istituzioni rispetto a quelle che non lo fanno."
+    },
+    {
+        "instruction": "Qual è l'effetto dell'innovazione di prodotto 4.0 e della formazione sulle capacità di export delle imprese?",
+        "input": "",
+        "output": "L'innovazione di prodotto 4.0 combinata con la formazione aumenta significativamente la propensione delle imprese ad esportare. Le imprese che investono sia nell'innovazione che nella formazione hanno una quota di export superiore al 20%, mentre questo effetto è più moderato per le imprese che non hanno investito in formazione."
+    },
+    {
+        "instruction": "Come si prevede l'andamento dell'export delle PMI italiane nei prossimi anni?",
+        "input": "",
+        "output": "Si prevede che l'export delle PMI italiane crescerà dell'1,5% nel 2024, del 3,5% nel 2025, e del 3,2% in media nel biennio 2026-2027, raggiungendo un totale di €282 miliardi. Le medie imprese, in particolare, trainano questo andamento positivo."
+    },
+    {
+        "instruction": "Quali imprese beneficeranno maggiormente della crescita dell'export nei prossimi anni?",
+        "input": "",
+        "output": "Le medie imprese italiane beneficeranno maggiormente della crescita dell'export, essendo considerate il motore delle filiere. Si prevede che le grandi imprese avranno una crescita ancora più marcata, con un aumento del 4% nel 2024, del 5,8% nel 2025 e del 5,5% in media nel biennio 2026-2027, raggiungendo un totale di €362 miliardi di export."
+    },
+    {
+        "instruction": "Quali settori beneficiano maggiormente dall'unione tra innovazione 4.0 e formazione?",
+        "input": "",
+        "output": "I settori manifatturieri tradizionali, definiti low-tech, traggono maggiori benefici dall'unione tra innovazione di prodotto 4.0 e formazione, con un aumento significativo della propensione all'export. Nei settori high-tech, l'effetto è positivo ma meno pronunciato."
+    },
+    {
+        "instruction": "In che modo l'innovazione di prodotto 4.0 e la formazione influenzano la varietà del portafoglio prodotti delle imprese esportatrici?",
+        "input": "",
+        "output": "Le imprese che investono in innovazione di prodotto 4.0 e formazione tendono ad avere un portafoglio prodotti più ampio. Tra le imprese esportatrici, l'86% di quelle che hanno investito in queste due aree esportano tre o più prodotti, contro il 74% di quelle che non lo hanno fatto."
+    },
+    {
+        "instruction": "Qual è la media delle aree geografiche in cui esportano le imprese italiane in base alla loro classe dimensionale?",
+        "input": "",
+        "output": "In media, ciascuna impresa italiana esporta in 2,6 aree geografiche, ma vi sono differenze in base alla dimensione: le micro imprese esportano in 1,8 aree, le PMI in 3,6 e le grandi imprese in 6,1 aree."
+    },
+    {
+        "instruction": "Quali sono le principali destinazioni di export per le imprese italiane?",
+        "input": "",
+        "output": "L'Unione Europea è la principale destinazione di export per tutte le classi dimensionali di imprese italiane, seguita da America settentrionale e Asia orientale. Per le micro imprese, anche il Medio Oriente ha un peso rilevante."
+    },
+    {
+        "instruction": "Qual è la differenza nella quota di export delle micro imprese italiane verso il Medio Oriente rispetto alla media complessiva?",
+        "input": "",
+        "output": "Le micro imprese italiane esportano verso il Medio Oriente con una quota superiore di quasi 3 punti percentuali rispetto alla media complessiva delle imprese (6,6%)."
+    },
+    {
+        "instruction": "Quali sono le aree geografiche in cui le PMI italiane prevalgono sull'export rispetto alle grandi imprese?",
+        "input": "",
+        "output": "Le PMI italiane prevalgono sull'export rispetto alle grandi imprese in Asia centrale, Altri Paesi africani e Oceania e altri territori."
+    },
+    {
+        "instruction": "Quali sono le prospettive di crescita dell'export delle grandi imprese italiane nel Medio Oriente e in Asia orientale?",
+        "input": "",
+        "output": "Le grandi imprese italiane vedranno un aumento dell'export del 10,3% nel Medio Oriente quest'anno e del 11,7% l'anno prossimo. In Asia orientale, l'aumento previsto è del 5% quest'anno e del 5,4% nel 2025."
+    },
+    {
+        "instruction": "Quali settori beneficeranno maggiormente dei piani infrastrutturali nei Paesi del Golfo?",
+        "input": "",
+        "output": "I settori delle costruzioni, arredo interno, moda, gioielli, alimentari e bevande, e illuminazione beneficeranno maggiormente dai piani infrastrutturali nei Paesi del Golfo come Emirati Arabi Uniti e Arabia Saudita."
+    },
+    {
+        "instruction": "Quali settori industriali in Vietnam offrono opportunità di business per le imprese italiane?",
+        "input": "",
+        "output": "In Vietnam, settori come l'industria manifatturiera avanzata, la transizione green e sostenibile (energia rinnovabile, agricoltura, costruzioni) offrono opportunità di business per le imprese italiane, soprattutto quelle attive nella meccanica strumentale e automazione nel settore Moda."
+    },
+    {
+        "instruction": "Quali sono i principali settori di opportunità per le imprese italiane in India?",
+        "input": "",
+        "output": "In India, i settori di opportunità per le imprese italiane includono la meccanica strumentale, gli apparecchi elettrici, i macchinari per il tessile e l'abbigliamento, e prodotti per la transizione green. Anche la domanda di alimentari e bevande Made in Italy sarà elevata."
+    },
+    {
+        "instruction": "Quali sono le politiche adottate in India che facilitano le opportunità di business per le imprese italiane?",
+        "input": "",
+        "output": "In India, le politiche industriali competitive adottate dagli Stati, aggiornate ogni 3-5 anni, promuovono settori selezionati di opportunità e crescita. Inoltre, il Ministero dedicato alle micro, piccole e medie imprese promuove agevolazioni per le imprese."
+    },
+    {
+        "instruction": "Quali sono i settori dove le imprese italiane potranno accrescere la loro presenza negli Stati Uniti?",
+        "input": "",
+        "output": "Le imprese italiane potranno accrescere la loro presenza negli Stati Uniti nei settori della produzione avanzata (stampa 3D, automazione, robotica), meccanica strumentale, lavorazione dei metalli, gomma e plastica, e fabbricazione di prodotti chimici. Anche i settori alimentari e bevande, biotecnologia e rinnovabili avranno opportunità."
+    },
+    {
+        "instruction": "Come la Small Business Administration (SBA) americana supporta le imprese italiane negli Stati Uniti?",
+        "input": "",
+        "output": "La Small Business Administration (SBA) americana supporta le imprese italiane negli Stati Uniti attraverso il Business Development Program, che incentiva le partnership con medie imprese locali."
+    },
+    {
+        "instruction": "Quali saranno i principali settori tecnologici su cui si concentreranno le imprese italiane negli Stati Uniti a partire dal 2025?",
+        "input": "",
+        "output": "A partire dal 2025, le imprese italiane negli Stati Uniti si concentreranno nei settori della lavorazione dei metalli, gomma e plastica, fabbricazione di prodotti chimici, biotecnologia e rinnovabili (eolico e solare)."
+    },
+    {
+        "instruction": "Quali sono i settori di opportunità delineati dall'Industry Growth Program australiano per le PMI?",
+        "input": "",
+        "output": "L'Industry Growth Program australiano per le PMI identifica opportunità in settori come agricoltura, medicale, energie rinnovabili e tecnologie a basse emissioni. L'obiettivo del programma è anche quello di favorire la collaborazione con realtà internazionali."
+    },
+    {
+        "instruction": "Quali mercati sono considerati opportunità di crescita per le piccole imprese italiane a partire dal 2025?",
+        "input": "",
+        "output": "A partire dal 2025, le piccole imprese italiane avranno opportunità di crescita in Asia centrale, Medio Oriente e Altri Paesi africani, trainate dal Piano Mattei, che promuove lo sviluppo sostenibile e la cooperazione in Africa."
+    },
+    {
+        "instruction": "Cos'è il Piano Mattei e come sostiene le imprese italiane nei mercati africani?",
+        "input": "",
+        "output": "Il Piano Mattei, lanciato dal governo italiano nel 2024, promuove lo sviluppo sostenibile, la cooperazione e la transizione energetica in Africa. Attraverso partenariati pubblico-privati e il supporto di SACE, il piano trasforma mercati di nicchia in opportunità per le piccole e medie imprese italiane."
+    },
+    {
+        "instruction": "Qual è il ruolo della Push Strategy di SACE nel sostegno all'export italiano?",
+        "input": "",
+        "output": "La Push Strategy di SACE sostiene l'export italiano, concentrandosi su Paesi ad alto potenziale ma ancora marginali per l'export, come Costa d'Avorio, Senegal e Benin. Recentemente è stato siglato un accordo per sostenere l'export italiano in settori chiave del Benin, migliorando l'accesso ai servizi essenziali."
+    },
+    {
+        "instruction": "Quali opportunità si prevedono per le imprese italiane in Ucraina a partire dal 2025?",
+        "input": "",
+        "output": "A partire dal 2025, la ricostruzione dell'Ucraina offrirà opportunità per le imprese italiane nei settori agricolo e della meccanica strumentale. SACE, in collaborazione con il sistema bancario locale, promuoverà iniziative di business per sostenere lo sviluppo del Paese."
+    },
+    {
+        "instruction": "Cosa prevede il Protocollo d'Intesa firmato da SACE per la ricostruzione dell'Ucraina?",
+        "input": "",
+        "output": "Il Protocollo d'Intesa firmato da SACE e altre Export Credit Agencies mira a promuovere il commercio estero e gli investimenti in Ucraina, garantendo le migliori condizioni per lo sviluppo economico, ecologico, infrastrutturale e sociale del Paese."
+    },
+    {
+        "instruction": "Quali informazioni devono essere incluse nelle fatture doganali per velocizzare lo sdoganamento?",
+        "input": "",
+        "output": "Assicurati di includere tutte le informazioni richieste nelle tue fatture doganali."
+    },
+    {
+        "instruction": "Quali sono i suggerimenti per preparare correttamente le fatture doganali?",
+        "input": "",
+        "output": "Prepara le tue fatture con cura. Scrivile chiaramente a macchina. Lascia sufficiente spazio tra le righe e mantieni i dati all'interno di ogni colonna."
+    },
+    {
+        "instruction": "Come dovrebbe essere strutturata una fattura doganale riguardo alla lista di imballaggio?",
+        "input": "",
+        "output": "Assicurati che le tue fatture contengano le informazioni che verrebbero mostrate in una lista di imballaggio ben preparata."
+    },
+    {
+        "instruction": "Come si dovrebbero identificare i pacchi in una spedizione?",
+        "input": "",
+        "output": "Segna e numera ogni pacco in modo che possa essere identificato con i corrispondenti segni e numeri riportati sulla tua fattura."
+    },
+    {
+        "instruction": "Come si devono descrivere gli articoli nelle fatture doganali?",
+        "input": "",
+        "output": "Indica una descrizione dettagliata di ogni articolo di merce contenuto in ciascun pacco sulla tua fattura."
+    },
+    {
+        "instruction": "Come devono essere marcati i beni per conformarsi alle leggi statunitensi?",
+        "input": "",
+        "output": "Marca i tuoi beni in modo leggibile e visibile con il paese di origine, a meno che non siano esenti dai requisiti di marcatura dell'origine, e con altre marcature richieste dalle leggi di marcatura degli Stati Uniti. Le esenzioni e i requisiti generali di marcatura sono descritti nei Capitoli 29 e 30."
+    },
+    {
+        "instruction": "Quali leggi speciali degli Stati Uniti devono essere rispettate per l'esportazione di beni?",
+        "input": "",
+        "output": "Rispetta le disposizioni di eventuali leggi speciali degli Stati Uniti che potrebbero applicarsi ai tuoi beni, come quelle relative a cibo, farmaci, cosmetici, bevande alcoliche, materiali radioattivi, e altre. (Vedi Capitoli 33, 34 e 35)."
+    },
+    {
+        "instruction": "Cosa dovresti fare per rispettare le istruzioni del cliente negli Stati Uniti?",
+        "input": "",
+        "output": "Osserva attentamente le istruzioni riguardo la fatturazione, l'imballaggio, la marcatura, l'etichettatura, ecc., che ti sono state inviate dal tuo cliente negli Stati Uniti."
+    },
+    {
+        "instruction": "Cosa puoi fare per migliorare gli standard di imballaggio delle tue merci?",
+        "input": "",
+        "output": "Collabora con il CBP (Customs and Border Protection) per sviluppare standard di imballaggio per le tue merci."
+    },
+    {
+        "instruction": "Quali misure di sicurezza dovresti adottare durante il trasporto delle merci?",
+        "input": "",
+        "output": "Stabilisci procedure di sicurezza solide nella tua struttura e durante il trasporto delle merci per la spedizione. Non dare ai trafficanti di narcotici l'opportunità di introdurre droghe nel tuo carico."
+    },
+    {
+        "instruction": "Quali vantaggi ci sono nell'utilizzare un vettore partecipante al Sistema di Manifesto Automatico (AMS)?",
+        "input": "",
+        "output": "Prendi in considerazione l'idea di spedire con un vettore che partecipa al Sistema di Manifesto Automatico (AMS)."
+    },
+    {
+        "instruction": "Perché dovresti considerare l'uso di un broker doganale autorizzato che partecipa all'Automated Broker Interface (ABI)?",
+        "input": "",
+        "output": "Se utilizzi un broker doganale autorizzato per la tua transazione, prendi in considerazione l'idea di utilizzare una società che partecipa all'Automated Broker Interface (ABI)."
+    },
+    {
+        "instruction": "Quali sono i documenti da presentare quando una spedizione arriva negli Stati Uniti?",
+        "input": "",
+        "output": "L'importatore registrato (proprietario, acquirente o broker doganale autorizzato) deve presentare i documenti di ingresso per le merci al direttore del porto nel porto di ingresso delle merci."
+    },
+    {
+        "instruction": "Quando le merci importate sono considerate legalmente entrate negli Stati Uniti?",
+        "input": "",
+        "output": "Le merci importate sono considerate legalmente entrate solo dopo l'arrivo della spedizione nel porto di ingresso, l'autorizzazione alla consegna da parte del CBP e il pagamento dei dazi stimati."
+    },
+    {
+        "instruction": "Di chi è la responsabilità per l'esame e il rilascio delle merci importate?",
+        "input": "",
+        "output": "È responsabilità dell'importatore registrato organizzare l'esame e il rilascio delle merci."
+    },
+    {
+        "instruction": "Qual è il dovere dell'importatore registrato secondo il 19 U.S.C. 1484?",
+        "input": "",
+        "output": "L'importatore registrato deve agire con ragionevole cura nell'effettuare l'ingresso delle merci."
+    },
+    {
+        "instruction": "Quali altre agenzie devono essere contattate oltre al CBP in caso di domande su determinate merci?",
+        "input": "",
+        "output": "Gli importatori dovrebbero contattare altre agenzie federali, come la Food and Drug Administration (FDA), per domande su merci specifiche. Altre agenzie includono quelle che regolano alcol, tabacco, armi da fuoco, prodotti faunistici, veicoli a motore e altre merci."
+    },
+    {
+        "instruction": "Come possono essere immesse le merci negli Stati Uniti?",
+        "input": "",
+        "output": "Le merci possono essere immesse per il consumo, per essere stoccate in un magazzino presso il porto di arrivo, o possono essere trasportate in-bond a un altro porto di ingresso ed essere immesse lì alle stesse condizioni del porto di arrivo."
+    },
+    {
+        "instruction": "Chi può organizzare il trasporto delle merci in-bond verso un porto interno?",
+        "input": "",
+        "output": "Il trasporto delle merci in-bond verso un porto interno può essere organizzato dal destinatario, da un broker doganale o da qualsiasi altra persona interessata alle merci."
+    },
+    {
+        "instruction": "Cosa accade se le tue merci arrivano in un porto diverso da quello dove desideri immetterle?",
+        "input": "",
+        "output": "Se le tue merci arrivano in un porto diverso da quello in cui desideri immetterle, potresti essere addebitato per il trasporto al porto desiderato, a meno che non siano stati fatti altri accordi."
+    },
+    {
+        "instruction": "Cosa bisogna fare prima dell'arrivo delle merci per garantire l'ingresso?",
+        "input": "",
+        "output": "Prima dell'arrivo delle merci, è necessario fare accordi per l'ingresso presso il porto CBP dove si intende presentare i dazi e la documentazione."
+    },
+    {
+        "instruction": "Le merci dirette in una foreign trade zone devono essere immesse presso la dogana?",
+        "input": "",
+        "output": "Le merci destinate a una foreign trade zone non devono essere immesse presso la dogana. Consulta il Capitolo 41 per maggiori informazioni sulle foreign trade zones."
+    },
+    {
+        "instruction": "Qual è la popolazione degli Stati Uniti d'America e la sua capitale?",
+        "input": "",
+        "output": "La popolazione degli Stati Uniti d'America è di 337,1 milioni e la sua capitale è Washington, D.C."
+    },
+    {
+        "instruction": "Qual è il PIL nominale (USD PPP) degli Stati Uniti d'America?",
+        "input": "",
+        "output": "Il PIL nominale degli Stati Uniti d'America è di 28.781,1 miliardi di dollari."
+    },
+    {
+        "instruction": "Qual è l'indice di opportunità per l'export italiano negli Stati Uniti?",
+        "input": "",
+        "output": "L'indice di opportunità per l'export italiano negli Stati Uniti è 85/100."
+    },
+    {
+        "instruction": "Qual è l'indice di opportunità di investimento negli Stati Uniti per le imprese italiane?",
+        "input": "",
+        "output": "L'indice di opportunità di investimento negli Stati Uniti è 77/100."
+    },
+    {
+        "instruction": "Qual è il rischio politico medio negli Stati Uniti d'America?",
+        "input": "",
+        "output": "Il rischio politico medio negli Stati Uniti d'America è 17/100."
+    },
+    {
+        "instruction": "Qual è il rischio di credito negli Stati Uniti d'America?",
+        "input": "",
+        "output": "Il rischio di credito medio negli Stati Uniti è 18/100."
+    },
+    {
+        "instruction": "Qual è il rischio legato al cambiamento climatico negli Stati Uniti d'America?",
+        "input": "",
+        "output": "Il rischio legato al cambiamento climatico negli Stati Uniti d'America è 61/100."
+    },
+    {
+        "instruction": "Qual è stato l'andamento dell'export italiano verso gli Stati Uniti dal 2022 al 2027?",
+        "input": "",
+        "output": "L'export italiano verso gli Stati Uniti è passato da 65,1 miliardi di euro nel 2022 a una previsione di 79,4 miliardi nel 2027, con una crescita media annua del 3,2%."
+    },
+    {
+        "instruction": "Qual è la quota di mercato dell'export italiano negli Stati Uniti rispetto ad altri Paesi come Germania, Francia e Spagna?",
+        "input": "",
+        "output": "La quota di mercato dell'export italiano negli Stati Uniti è del 2,1%, rispetto al 4,5% della Germania, 1,8% della Francia e 0,7% della Spagna."
+    },
+    {
+        "instruction": "Qual è stato l'import italiano dagli Stati Uniti nel 2023?",
+        "input": "",
+        "output": "L'import italiano dagli Stati Uniti nel 2023 è stato di 25,2 miliardi di euro, con una crescita dell'1,1% rispetto al 2022."
+    },
+    {
+        "instruction": "Quali sono i principali settori dell'export italiano verso gli Stati Uniti nel 2023?",
+        "input": "",
+        "output": "I principali settori dell'export italiano verso gli Stati Uniti nel 2023 sono: Meccanica strumentale (20%), Mezzi di trasporto (17%), Chimica (16%), Altri consumi (8%), Alimentari e bevande (7%), Tessile e abbigliamento (6%), e altri settori (25%)."
+    },
+    {
+        "instruction": "Qual è il rating di rischio Paese degli Stati Uniti d'America secondo le agenzie di rating?",
+        "input": "",
+        "output": "Il rating di rischio Paese degli Stati Uniti è AA+ secondo S&P, Aaa secondo Moody's e AA+ secondo Fitch."
+    },
+    {
+        "instruction": "Qual è il tasso di crescita previsto per il PIL degli Stati Uniti nel 2024 rispetto al 2023?",
+        "input": "",
+        "output": "Il tasso di crescita previsto per il PIL degli Stati Uniti nel 2024 è del 2,7% rispetto al 2023."
+    },
+    {
+        "instruction": "Qual è il rapporto debito pubblico/PIL degli Stati Uniti nel 2024?",
+        "input": "",
+        "output": "Il rapporto debito pubblico/PIL degli Stati Uniti nel 2024 è del 123,3%."
+    },
+    {
+        "instruction": "Qual è il punteggio relativo all'efficienza energetica degli Stati Uniti?",
+        "input": "",
+        "output": "Il punteggio relativo all'efficienza energetica degli Stati Uniti è 91/100."
+    },
+    {
+        "instruction": "Quali sono i principali vantaggi per l'export italiano verso gli Stati Uniti?",
+        "input": "",
+        "output": "I principali vantaggi per l'export italiano verso gli Stati Uniti includono un'opportunità di export molto elevata (indice 85/100) e una forte domanda per settori come meccanica strumentale, mezzi di trasporto e chimica, che rappresentano complessivamente oltre il 50% dell'export italiano verso gli Stati Uniti."
+    },
+    {
+        "instruction": "Quali sono i principali rischi politici associati agli Stati Uniti per gli esportatori italiani?",
+        "input": "",
+        "output": "I principali rischi politici negli Stati Uniti per gli esportatori italiani sono relativamente bassi, con un rischio politico medio di 17/100 e un rischio legato a esproprio e violazioni contrattuali pari a 18/100."
+    },
+    {
+        "instruction": "Qual è il livello di rischio legato al cambiamento climatico negli Stati Uniti e come potrebbe influenzare le esportazioni italiane?",
+        "input": "",
+        "output": "Il rischio legato al cambiamento climatico negli Stati Uniti è moderato, con un punteggio di 61/100. Questo potrebbe influenzare le esportazioni italiane in settori come l'agricoltura e l'energia, a causa di potenziali problemi idrogeologici (56/100) e rischio di tempesta (66/100)."
+    },
+    {
+        "instruction": "Quali settori offrono le maggiori opportunità per le imprese italiane che vogliono esportare negli Stati Uniti?",
+        "input": "",
+        "output": "I settori che offrono le maggiori opportunità per le imprese italiane che esportano negli Stati Uniti includono meccanica strumentale (20%), mezzi di trasporto (17%) e chimica (16%). Anche i settori alimentari e bevande (7%) e tessile e abbigliamento (6%) sono rilevanti."
+    },
+    {
+        "instruction": "Quali sono i principali rischi di credito negli Stati Uniti e come possono influire sugli esportatori italiani?",
+        "input": "",
+        "output": "I rischi di credito negli Stati Uniti sono moderati, con un punteggio medio di 18/100. Il rischio di mancato pagamento da parte della controparte sovrana è basso (5/100), ma aumenta leggermente per le controparti bancarie (23/100) e corporate (26/100), il che potrebbe influire sulle transazioni commerciali."
+    },
+    {
+        "instruction": "Qual è il potenziale di crescita dell'export italiano verso gli Stati Uniti nei prossimi anni?",
+        "input": "",
+        "output": "Il potenziale di crescita dell'export italiano verso gli Stati Uniti è significativo, con un incremento previsto del 3,2% annuo fino al 2027, raggiungendo un valore stimato di 79,4 miliardi di euro."
+    },
+    {
+        "instruction": "In che modo l'economia statunitense supporta le opportunità di export italiane?",
+        "input": "",
+        "output": "L'economia statunitense supporta le opportunità di export italiane grazie a una crescita del PIL prevista del 2,7% nel 2024 e una forte domanda interna, particolarmente nei settori di meccanica strumentale, trasporti e chimica."
+    },
+    {
+        "instruction": "Come si posiziona l'Italia rispetto ad altri Paesi europei per le esportazioni verso gli Stati Uniti?",
+        "input": "",
+        "output": "L'Italia si posiziona al 2,1% della quota di mercato delle esportazioni verso gli Stati Uniti, inferiore alla Germania (4,5%) ma superiore alla Francia (1,8%) e alla Spagna (0,7%)."
+    },
+    {
+        "instruction": "Come si valuta il rischio di transizione energetica negli Stati Uniti?",
+        "input": "",
+        "output": "Il rischio di transizione energetica negli Stati Uniti è medio, con un punteggio di 59/100. Le emissioni sono alte (78/100), ma ci sono buoni progressi nell'efficienza energetica (91/100) e nell'elettrificazione (72/100)."
+    },
+    {
+        "instruction": "Quali sono i principali indicatori di rischio legati al sistema bancario degli Stati Uniti?",
+        "input": "",
+        "output": "I principali indicatori di rischio del sistema bancario statunitense includono un credito bancario al settore privato pari al 51,7% del PIL e un tasso di prestiti in sofferenza molto basso, pari allo 0,7% del totale dei prestiti."
+    }
+
+
+]
